@@ -1324,7 +1324,7 @@ audio {
     		-webkit-transform: scale(0.9);
     	}
     }*/
-@media and (orientation:portrait){
+@media screen and (orientation:portrait){
 	.rotate{
 		display: block !important;
 	}
