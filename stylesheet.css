@@ -1284,7 +1284,7 @@ audio {
 	display: none;
 	position: absolute;
 	bottom: 0 !important;
-	left: 40vw !important;
+	left: 30vw !important;
 	z-index: 101010;
 }
 .message p {
