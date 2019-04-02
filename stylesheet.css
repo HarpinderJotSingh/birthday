@@ -1271,8 +1271,9 @@ audio {
 
 .cake{
 	position: absolute;
-	bottom: 0 !important;
-	top: 100vh !important;
+	transform: scale(.5);
+	bottom: -10vh !important;
+/*	top: 100vh !important;*/
 	
 }
 .cake-cover {
@@ -1283,7 +1284,8 @@ audio {
 	display: none;
 	position: absolute;
 	bottom: 0 !important;
-	left: 45vw !important;
+	left: 40vw !important;
+	z-index: 101010;
 }
 .message p {
 	font-family: 'Signika', sans-serif;
