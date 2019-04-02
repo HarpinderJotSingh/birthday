@@ -15,7 +15,7 @@ body {
 	background-color: #FFDAB9;
 	background-image: url('./hbdAmisha.jpg');
 	background-position: center;
-	background-size: contain;
+	background-size: 100vw 100vh;
 	background-repeat: no-repeat;
 }
 .peach-after {
